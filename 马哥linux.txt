@@ -27,7 +27,8 @@ VMware Workstation的使用:
 		内核空间:system space
 	POS(POSIX):可移植操作系统规范
 
-	运行程序格式:1
+
+	运行程序格式:
 		windows:exe,dll
 		linux:ELF,so
 
