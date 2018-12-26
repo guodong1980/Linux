@@ -1,4 +1,4 @@
-VMware Workstation的使用:11
+VMware Workstation的使用:
 	计算机的组成部分:
 		运算器,控制器,存储器,输入设备,输出设备
 			cpu:运算器,控制器
