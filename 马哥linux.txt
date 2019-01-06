@@ -2088,7 +2088,7 @@ vim编辑器:
 		-nouser:查找没有属主的文件
 		-nogroup:查找没有属组的文件
 
-		-type TYPE:按文件类型查找文件  例如 find /etc/ -type d <查找/etc中为目录的文件>
+		-type TYPE:按文件类型查找文件  例如 find /etc/ -type d <查找/etc中为目录的文件>1
 			f:普通文件
 			d:目录文件
 			c:字符设备
